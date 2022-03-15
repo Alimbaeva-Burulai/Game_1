@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfApp1_laby/1.0.0": {
+        "runtime": {
+          "WpfApp1_laby.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1_laby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

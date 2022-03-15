@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Extra class: Repository with save/load/highscore&#xD;&#xA;Extra project: Logic.Tests">
+    <Position X="7.51" Y="0.542" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="WpfApp1_laby.LabyModel">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAIAAAAQCAAAA=</HashCode>
+      <FileName>LabyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1_laby.LabyRenderer">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgQAAAABAAABAUgAAAAAQECAAgAAAggAAAKACA=</HashCode>
+      <FileName>LabyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1_laby.LabyLogic">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAAA=</HashCode>
+      <FileName>LabyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1_laby.LabyControl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABQAAAAAACAAAAQAIAAogAA=</HashCode>
+      <FileName>LabyClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
